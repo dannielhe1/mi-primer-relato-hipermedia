@@ -9,3 +9,5 @@ Mientras Luna y Nocturno pasaban tiempo juntos, la abuela de Luna, que conocía 
 naturaleza de los lobos, se dio cuenta de que este lobo no era una amenaza. La abuela y Nocturno se 
 hicieron amigos también, y la cabaña en el bosque se llenó de risas y alegría.
 
+[Inicio](Inicio.md)
+
