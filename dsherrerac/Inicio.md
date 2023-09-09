@@ -7,5 +7,5 @@ abuela, una anciana sabia y misteriosa, vivía en una cabaña en lo más profund
 visitaba regularmente para aprender los secretos del mundo natural y la magia que lo envolvía
 
 
-[segunda parte](2rama.md)
+[Primera rama](2rama.md)
 
