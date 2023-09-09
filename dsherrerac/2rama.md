@@ -7,3 +7,4 @@ buscaba compañía y amistad. Luna, al ver la tristeza en los ojos de Nocturno, 
 cabaña de su abuela, donde ambos compartieron historias y secretos del bosque
 
 
+[Primer capitulo](inicio.md)
