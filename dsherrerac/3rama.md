@@ -6,3 +6,5 @@ profundo en el espeso follaje. En su camino, descubrió un sendero que nunca ant
 Siguiendo su curiosidad, Luna llegó a un claro donde encontró a una manada de lobos plateados. 
 Estos lobos no eran como los que había escuchado en las historias de su abuela; Eran criaturas 
 majestuosas y amables
+
+[Inicio](Inicio.md)
